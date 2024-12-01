@@ -1,6 +1,5 @@
 # Dopamind+ -  Health Innovation: Empowering Vulnerable Communities for Health and Wel-being
 
-### About
 Dopamind+ is a mobile app designed to improve mental health among Indonesian youth. It features AI-powered mood detection, menstrual and sleep tracking, counseling services, virtual community support, and an SOS system.
 
 <div align="center">
