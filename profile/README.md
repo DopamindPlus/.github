@@ -4,7 +4,7 @@ Dopamind+ is a mobile app designed to improve mental health among Indonesian you
 
 <div align="center">
   <h3>Our Team</h3>
-  <h3>Team ID: CH2-PS262</h3>
+  <h3>Team ID: C242-PS262</h3>
   <table align="center">
     <tr>
       <th>ID</th>
